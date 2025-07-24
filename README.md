@@ -18,11 +18,11 @@
 
 ### 📈 LeetCode & Problem Solving
 - Actively solving DSA problems using Java
-- [LeetCode Profile](https://leetcode.com/aniketgulamkar21)
+- [LeetCode Profile](https://leetcode.com/u/AniketGulamkar/)
 
 ### 📬 Let's Connect!
-- [LinkedIn](https://linkedin.com/in/aniketgulamkar21)
+- [LinkedIn](https://www.linkedin.com/in/aniket-gulamkar-6b446b189/)
 - 📧 aniketgulamkar21@gmail.com
 
 ---
-💙 Always learning | Building for impact | Ready to join Google 💼
+💙 Always learning | Building for impact 
