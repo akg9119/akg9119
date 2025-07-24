@@ -9,9 +9,8 @@
 - ☁️ Deploying with Docker, GitLab CI, and GCP (GKE)
 
 ### 📌 Projects
-- [🔒 Blog REST API (JWT Auth + Spring Boot)](https://github.com/akg9119/blog-rest-api)
-- [🍕 FoodZone - Online Ordering (Angular + JSON Server)](https://github.com/akg9119/foodzone)
-- [📊 Admin Dashboard (Angular + RxJS)](https://github.com/akg9119/admin-dashboard)
+- [🔒 Blog REST API (JWT Auth + Spring Boot)](https://github.com/akg9119/blog-application)
+- [🍕 FoodZone - Online Ordering (Angular + JSON Server)](https://github.com/akg9119/Food-Zone)
 
 ### 💡 Skills
 `Java` `Spring Boot` `Angular` `RxJS` `MySQL` `Git` `REST API` `DSA` `Docker` `GCP`
