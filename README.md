@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Aniket 👋
 
-<!--
-**akg9119/akg9119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Developer | Angular & Java | Spring Boot | DSA Enthusiast  
+🔍 Passionate about building scalable apps & solving real-world problems
 
-Here are some ideas to get you started:
+### 💼 Current Work
+- 🏢 Working on AI-based School ERP @ Resolute Solutions (Client: Turkiye Maarif)
+- 🌐 Architecting secure Angular apps + REST APIs with Spring Boot & MySQL
+- ☁️ Deploying with Docker, GitLab CI, and GCP (GKE)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projects
+- [🔒 Blog REST API (JWT Auth + Spring Boot)](https://github.com/akg9119/blog-rest-api)
+- [🍕 FoodZone - Online Ordering (Angular + JSON Server)](https://github.com/akg9119/foodzone)
+- [📊 Admin Dashboard (Angular + RxJS)](https://github.com/akg9119/admin-dashboard)
+
+### 💡 Skills
+`Java` `Spring Boot` `Angular` `RxJS` `MySQL` `Git` `REST API` `DSA` `Docker` `GCP`
+
+### 📈 LeetCode & Problem Solving
+- Actively solving DSA problems using Java
+- [LeetCode Profile](https://leetcode.com/aniketgulamkar21)
+
+### 📬 Let's Connect!
+- [LinkedIn](https://linkedin.com/in/aniketgulamkar21)
+- 📧 aniketgulamkar21@gmail.com
+
+---
+💙 Always learning | Building for impact | Ready to join Google 💼
